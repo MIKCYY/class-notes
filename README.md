@@ -1,5 +1,8 @@
 # class-notes
+
+
 JAVA-Class-Notes
+
 what is Javascript?
 
 JavaScript is the Programming Language for the Web.
